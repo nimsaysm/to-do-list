@@ -1,5 +1,5 @@
 <p align="center">
-    <video src=".github/preview.mp4" alt="Demonstração do projeto" width="100%">
+    <img src=".github/preview.gif" alt="Demonstração do projeto" width="100%" />
 </p>
 
 ## 💻 Projeto
